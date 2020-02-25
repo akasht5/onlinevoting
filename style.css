@@ -1,0 +1,63 @@
+.navbar{
+    border-bottom:#008ed6 3px solid;
+    background:rgb(37, 37, 37) !important;
+}
+#home-section{
+   background:url("images/candidates.jpg");
+   min-height:600px;
+   background-size:cover;
+   padding-top:450px;
+}
+.hero-sec{
+
+}
+.heading{
+    color:silver;
+    padding-top:200px;
+}
+.dark-overlay{
+    background-color:rgba(0,0,0,0.75);
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    min-height:600px;
+}
+#home-features{
+    background:;
+    width:100%;
+    min-height:400px;
+    padding:60px 50px;
+}
+.social{
+    height:500px;
+    background:rgb(216, 216, 216);
+}
+#home-features img{
+    height:100px;
+    width:100px;
+}
+#home-features p{
+    font-size:20px;
+    color:black;
+}
+.feature{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#footer{
+   
+    background:rgb(79, 114, 180);
+    padding:50px 0;
+}
+#footer{
+    font-size:20px;
+    
+}
+body hr{
+    border:0.5px solid black;
+}
+#footer img{
+    margin-right:30px;
+}
+
